@@ -35,5 +35,5 @@ git clone https://github.com/mr-ozdemir/Traffic_sign_detection_model_with_CNN
 cd Traffic_sign_detection_model_with_CNN
 ```
 ```bash
-pip install torch torchvision pandas pillow
+pip install requirements.txt
 ```
