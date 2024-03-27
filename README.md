@@ -6,6 +6,14 @@ Welcome to the Traffic Sign Detection project! This repository contains a deep l
 
 The Traffic Sign Detection project leverages a CNN model implemented in PyTorch to recognize traffic signs from static images or video streams. The model is trained on a comprehensive dataset of traffic signs, enabling it to detect and classify a wide range of sign types under different environmental conditions.
 
+## Dataset Information
+
+The dataset for this project was sourced from the Big Data and Artificial Intelligence Laboratory at Fırat University. It features a collection of traffic sign images across 39 distinct classes. To ensure uniformity, all images and their corresponding labels have been resized and normalized. This careful preparation facilitates the efficient training and evaluation of our Convolutional Neural Network (CNN) model for traffic sign detection.
+
+For more details and to download the dataset, visit the [Fırat University Big Data and AI Lab datasets page](http://buyukveri.firat.edu.tr/veri-setleri/).
+
+
+
 ## Features
 
 
