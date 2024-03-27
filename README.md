@@ -2,8 +2,9 @@
 
 Welcome to the Traffic Sign Detection project! This repository contains a deep learning model designed to detect and classify traffic signs in images or real-time footage. Utilizing the power of Convolutional Neural Networks (CNN) and PyTorch, our model aims to provide high accuracy in identifying various traffic signs, making it a valuable tool for autonomous driving systems and traffic monitoring.
 
-## Project Overview
 
+## Project Overview
+This repository is currently under development. It aims to achieve high accuracy from a relatively small dataset.
 The Traffic Sign Detection project leverages a CNN model implemented in PyTorch to recognize traffic signs from static images or video streams. The model is trained on a comprehensive dataset of traffic signs, enabling it to detect and classify a wide range of sign types under different environmental conditions.
 
 ## Dataset Information
