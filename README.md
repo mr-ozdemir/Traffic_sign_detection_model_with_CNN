@@ -13,7 +13,11 @@ The dataset for this project was sourced from the Big Data and Artificial Intell
 
 For more details and to download the dataset, visit the [Fırat University Big Data and AI Lab datasets page](http://buyukveri.firat.edu.tr/veri-setleri/).
 
+## Model Evaluation
 
+| Model       | Accuracy | Precision | Recall | Macro F1 |
+|-------------|----------|-----------|--------|----------|
+| CNN         |          |           |        |          |
 
 ## Features
 
