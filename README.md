@@ -17,7 +17,7 @@ For more details and to download the dataset, visit the [Fırat University Big D
 
 | Model       | Accuracy | Precision | Recall | Macro F1 |
 |-------------|----------|-----------|--------|----------|
-| CNN         |          |           |        |          |
+| CNN         |  0.88    |  0.74     |  0.73  |  0.72    |
 
 ## Features
 
